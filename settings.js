@@ -32,9 +32,9 @@ global.language = english //change indonesia to english if you don't understand 
 // Other
 // Other
 global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "praveeya" //nama kalian
+global.ownername = "PRAVEE" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@PRAVEE" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
 global.email = "mdsandaru2@gmail.com" //bebas
 global.region = "Buddhist" //bebas
